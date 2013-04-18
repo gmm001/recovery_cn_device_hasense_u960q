@@ -6,3 +6,4 @@
 /data       ext4        /dev/block/mmcblk0p13
 /sdcard     vfat        /dev/block/mmcblk0p1
 /system     ext4        /dev/block/mmcblk0p17
+
